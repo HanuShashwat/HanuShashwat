@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abhx69/abhx69/raw/main/assets/banner.gif" alt="Animated Banner">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/banner.gif" alt="Animated Banner">
 </p>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/abhx69/abhx69/raw/main/assets/divider.gif" alt="Divider">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
 </p>
 
 ### <p align="center">👋 About Me</p>
@@ -57,7 +57,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/abhx69/abhx69/raw/main/assets/divider.gif" alt="Divider">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
 </p>
 
 ### <p align="center">✨ My Projects</p>
@@ -65,22 +65,22 @@
 <p align="center">Here are a few projects I've built while learning. Feel free to take a look!</p>
 
 <p align="center">
-  <img src="https://github.com/abhx69/abhx69/raw/main/assets/divider.gif" alt="Divider">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
 </p>
 
 ### <p align="center">📊 My GitHub Stats</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Hanu Shashwat's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=synthwave&hide_border=true" alt="Hanu Shashwat's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanushashwat&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Hanu Shashwat's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanushashwat&layout=compact&theme=synthwave&hide_border=true" alt="Hanu Shashwat's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/raw/output/github-contribution-grid-snake.svg" alt="Snake animation of my contributions" />
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/output/github-contribution-grid-snake.svg" alt="Snake animation of my contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/abhx69/abhx69/raw/main/assets/divider.gif" alt="Divider">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
 </p>
 
 ### <p align="center">📫 Let's Connect!</p>
