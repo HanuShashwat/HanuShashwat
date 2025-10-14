@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hanu+Shashwat+%E2%9C%A8;Cybersecurity+Enthusiast+%7C+Entreprenurial+Scientist;Exploring+the+world+of+Digital+Defense" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Hanu+Shashwat+%E2%9C%A8;Cybersecurity+Enthusiast+%7C+Entrepreneurial+Scientist;Exploring+the+world+of+Digital+Defense" />
 </div>
 
 <p align="center">
