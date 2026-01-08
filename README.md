@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Hanu+Shashwat+%E2%9C%A8;Entrepreneurial+Scientist+%7C+Cybersecurity+Enthusiast;Exploring+the+world+of+Digital+Defense" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=02569B&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Hanu+Shashwat+%E2%9C%A8;Flutter+Developer+%7C+Dart+Enthusiast;Building+Cross-Platform+Experiences" />
 </div>
 
 <p align="center">
@@ -13,44 +13,44 @@
 ### <p align="center">👋 About Me</p>
 
 <p align="center">
-  Hi, I'm Hanu Shashwat! I'm a tech enthusiast on a journey into the world of cybersecurity. I'm fascinated by how systems are secured and the techniques used to protect them. Right now, I'm diving into <b>Ethical Hacking</b> and learning how to use cool tools like <b>Metasploit</b> and <b>Nmap</b> for my projects. I'm always excited to learn something new!
+  Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to creating beautiful, fluid, and high-performance applications for Android, iOS, and the Web. I'm deeply interested in <b>UI/UX design</b>, <b>State Management</b> (Bloc/Provider), and integrating seamless <b>Firebase</b> backends. I love turning complex problems into simple, elegant mobile solutions!
 </p>
 
-### <p align="center">🛠️ Technologies I'm Learning</p>
+### <p align="center">🛠️ Tech Stack & Tools</p>
 
 <div align="center">
   <table width="100%">
     <tr align="center">
       <td width="33%">
-        <img src="https://img.shields.io/badge/Network_Security-007ACC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       </td>
       <td width="33%">
-        <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
       </td>
       <td width="33%">
-        <img src="https://img.shields.io/badge/Digital_Forensics-4A4A4A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       </td>
     </tr>
     <tr align="center">
       <td>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/State_Management-9745F5?style=for-the-badge" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Metasploit-E8751F?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </td>
     </tr>
      <tr align="center">
       <td>
-        <img src="https://img.shields.io/badge/Nmap-00B865?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Burp_Suite-FF8C00?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Cryptography-DD4814?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -60,9 +60,9 @@
   <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
 </p>
 
-### <p align="center">✨ My Projects</p>
+### <p align="center">✨ My Flutter Projects</p>
 
-<p align="center">Here are a few projects I've built while learning. Feel free to take a look!</p>
+<p align="center">Check out some of the apps I've been working on lately!</p>
 
 <p align="center">
   <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
