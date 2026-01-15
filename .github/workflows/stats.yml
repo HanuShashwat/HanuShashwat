@@ -1,24 +1,26 @@
 name: Generate GitHub Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Generate Stats Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          username: hanushashwat
-          theme: synthwave
-          hide_border: true
-          count_private: true
-          output: assets
+          USERNAME: hanushashwat
+          THEME: synthwave
+
+      - name: Move files
+        run: |
+          mkdir -p assets
+          mv profile-summary-card-output/* assets/
 
       - name: Commit files
         run: |
