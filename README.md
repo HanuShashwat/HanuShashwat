@@ -52,8 +52,8 @@ Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to cr
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/profile-details.svg" />
-  <img width="48%" src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/repos-per-language.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/0-profile-details.svg" />
+  <img width="48%" src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
 </p>
 
 <p align="center">
