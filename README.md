@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/banner.gif" alt="Animated Banner">
-</p>
+</p> 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=02569B&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Hanu+Shashwat+%E2%9C%A8;Flutter+Developer+%7C+Dart+Enthusiast;Building+Cross-Platform+Experiences" />
