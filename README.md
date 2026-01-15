@@ -51,10 +51,12 @@ Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to cr
 
 <h3 align="center">📊 My GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/0-profile-details.svg" height="280" alt="profile details" />
-  <img src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/1-repos-per-language.svg" height="280" alt="repos per language" />
-</p>
+<div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
+  <img src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/0-profile-details.svg"
+       style="width:48%;max-height:360px;height:auto;" alt="profile details" />
+  <img src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/1-repos-per-language.svg"
+       style="width:48%;max-height:360px;height:auto;" alt="repos per language" />
+</div>
 
 <p align="center">
   <img src="https://github.com/hanushashwat/hanushashwat/raw/output/github-contribution-grid-snake.svg">
