@@ -52,8 +52,8 @@ Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to cr
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanushashwat&show_icons=true&theme=synthwave&hide_border=true&count_private=true&cache_seconds=1800&v=2"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanushashwat&layout=compact&theme=synthwave&hide_border=true&cache_seconds=1800&v=2"/>
+  <img width="48%" src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/assets/stats.svg">
+  <img width="48%" src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/assets/top-langs.svg">
 </p>
 
 <p align="center">
