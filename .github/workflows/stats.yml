@@ -13,9 +13,12 @@ jobs:
 
       - name: Generate Stats Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: hanushashwat
           THEME: synthwave
+
 
       - name: Move files
         run: |
