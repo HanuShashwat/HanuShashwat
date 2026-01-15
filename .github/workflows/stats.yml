@@ -1,18 +1,29 @@
 name: Generate GitHub Stats
 
+# Run manually and on a schedule (every 6 hours)
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
+
+# Give this workflow permission to write files (required for pushing)
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      # checkout with credentials so we can push later
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Generate Stats
+      # generate the profile summary cards (this action writes into profile-summary-card-output/)
+      - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,5 +31,38 @@ jobs:
           USERNAME: hanushashwat
           BRANCH_NAME: main
           UTC_OFFSET: 5.5
-          AUTO_PUSH: true
+          AUTO_PUSH: false
 
+      # move generated files (if generated) into a clear folder (optional; this keeps repo tidy)
+      - name: Prepare output folder
+        run: |
+          # the action writes to profile-summary-card-output by default
+          if [ -d "profile-summary-card-output" ]; then
+            mkdir -p profile-summary-card-output
+            # ensure files are where we expect them (no-op if already there)
+            ls -la profile-summary-card-output || true
+          else
+            echo "No output folder found - action may have failed earlier"
+            ls -la || true
+          fi
+
+      # commit and push using the token (works even when action auto-push fails)
+      - name: Commit and push generated images
+        env:
+          REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: |
+          # configure git user so commit metadata looks right
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Add generated files (ignore if nothing new)
+          git add -A profile-summary-card-output || true
+
+          # Commit only if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(stats): update generated GitHub profile summary cards"
+            # push using the token URL - force-with-lease not needed for main branches in profile repo
+            git push "$REPO_URL" HEAD:main
+          fi
