@@ -69,8 +69,24 @@ Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to cr
 <h3 align="center">📫 Let's Connect!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanushashwat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hanushashwat733@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/hanushashwat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/Hanu_Shashwat" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hanushashwat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="display:inline-block; width:150px; height:36px; object-fit:contain; margin:0 6px;">
+  </a>
+
+  <a href="mailto:hanushashwat733@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+         style="display:inline-block; width:150px; height:36px; object-fit:contain; margin:0 6px;">
+  </a>
+
+  <a href="https://www.instagram.com/hanushashwat/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         style="display:inline-block; width:150px; height:36px; object-fit:contain; margin:0 6px;">
+  </a>
+
+  <a href="https://x.com/Hanu_Shashwat" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+         style="display:inline-block; width:150px; height:36px; object-fit:contain; margin:0 6px;">
+  </a>
 </p>
+
