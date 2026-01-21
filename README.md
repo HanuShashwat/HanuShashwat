@@ -84,8 +84,5 @@ Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to cr
          style="height:36px; margin:0 6px;">
   </a>
 
-  <a href="https://x.com/Hanu_Shashwat" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-         style="height:36px; margin:0 6px;">
-  </a>
+  
 </p>
