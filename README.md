@@ -1,55 +1,52 @@
 # Hanu Shashwat
 
-Flutter Developer focused on building reliable, scalable mobile applications.
+Flutter Engineer building scalable cross-platform applications.
 
 ---
 
-## About
+## Overview
 
-I work primarily with Flutter and Dart to build cross-platform applications for Android, iOS, and Web.
+Flutter developer focused on structured architecture, performance optimization, and production-grade mobile systems.
 
-My focus is:
-- Clean architecture
-- Predictable state management
-- Performance optimization
-- Maintainable codebases
-
-I prefer clarity over complexity.
+Experience working with real-world state management patterns and backend integrations.
 
 ---
 
-## Tech Stack
+## Core Stack
 
-**Languages**
-- Dart
-
-**Framework**
-- Flutter
-
-**State Management**
-- Bloc
-- Provider
-
-**Backend & Data**
-- Firebase
-- REST APIs
-- SQLite
-
-**Architecture**
-- Clean Architecture
-- MVC
+| Category            | Tools |
+|---------------------|-------|
+| Language            | Dart |
+| Framework           | Flutter |
+| State Management    | Bloc · Provider |
+| Backend             | Firebase · REST APIs |
+| Database            | SQLite · Firestore |
+| Architecture        | Clean Architecture · MVC |
+| Tooling             | Git · Android Studio |
 
 ---
 
-## Current Focus
+## Engineering Focus
 
-- Improving app performance at scale  
-- Structuring production-ready codebases  
-- Writing reusable UI components  
+- Scalable project structure  
+- Predictable state management  
+- Modular UI components  
+- Performance-aware builds  
+- Maintainable codebases  
 
 ---
 
-## GitHub Stats
+## Selected Work
+
+Production-focused Flutter applications with:
+- Authentication flows  
+- Backend integrations  
+- Real-time data handling  
+- Responsive UI systems  
+
+---
+
+## GitHub Metrics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hanushashwat&show_icons=true&hide_border=true&theme=transparent)
 
@@ -57,6 +54,6 @@ I prefer clarity over complexity.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/hanushashwat/
-- Email: hanushashwat733@gmail.com
-- X: https://x.com/Hanu_Shashwat
+LinkedIn → https://www.linkedin.com/in/hanushashwat/  
+Email → hanushashwat733@gmail.com  
+X → https://x.com/Hanu_Shashwat
