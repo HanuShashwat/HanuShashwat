@@ -1,59 +1,92 @@
-# Hanu Shashwat
+<p align="center">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/banner.gif" alt="Animated Banner">
+</p> 
 
-Flutter Engineer building scalable cross-platform applications.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=02569B&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Hanu+Shashwat+%E2%9C%A8;Flutter+Developer+%7C+Dart+Enthusiast;Building+Cross-Platform+Experiences" />
+</div>
 
----
+<p align="center">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif" alt="Divider">
+</p>
 
-## Overview
+<h3 align="center">👋 About Me</h3>
 
-Flutter developer focused on structured architecture, performance optimization, and production-grade mobile systems.
+<p align="center">
+Hi, I'm Hanu Shashwat! I'm a passionate <b>Flutter Developer</b> dedicated to creating beautiful, fluid, and high-performance applications for Android, iOS, and the Web. I'm deeply interested in <b>UI/UX design</b>, <b>State Management</b> (Bloc/Provider), and integrating seamless <b>Firebase</b> backends. I love turning complex problems into simple, elegant mobile solutions!
+</p>
 
-Experience working with real-world state management patterns and backend integrations.
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
----
+<div align="center">
+<table width="100%">
+<tr align="center">
+<td width="33%"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></td>
+<td width="33%"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></td>
+<td width="33%"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/State_Management-9745F5?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+</tr>
+</table>
+</div>
 
-## Core Stack
+<p align="center">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif">
+</p>
 
-| Category            | Tools |
-|---------------------|-------|
-| Language            | Dart |
-| Framework           | Flutter |
-| State Management    | Bloc · Provider |
-| Backend             | Firebase · REST APIs |
-| Database            | SQLite · Firestore |
-| Architecture        | Clean Architecture · MVC |
-| Tooling             | Git · Android Studio |
+<h3 align="center">✨ My Flutter Projects</h3>
+<p align="center">Check out some of the apps I've been working on lately!</p>
 
----
+<p align="center">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif">
+</p>
 
-## Engineering Focus
+<h3 align="center">📊 My GitHub Stats</h3>
 
-- Scalable project structure  
-- Predictable state management  
-- Modular UI components  
-- Performance-aware builds  
-- Maintainable codebases  
+<div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;">
+  <img src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/0-profile-details.svg"
+       style="width:48%;max-height:360px;height:auto;" alt="profile details" />
+  <img src="https://raw.githubusercontent.com/hanushashwat/hanushashwat/main/profile-summary-card-output/2077/1-repos-per-language.svg"
+       style="width:48%;max-height:360px;height:auto;" alt="repos per language" />
+</div>
 
----
+<p align="center">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/output/github-contribution-grid-snake.svg">
+</p>
 
-## Selected Work
+<p align="center">
+  <img src="https://github.com/hanushashwat/hanushashwat/raw/main/assets/divider.gif">
+</p>
 
-Production-focused Flutter applications with:
-- Authentication flows  
-- Backend integrations  
-- Real-time data handling  
-- Responsive UI systems  
+<h3 align="center">📫 Let's Connect!</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanushashwat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         style="height:36px; margin:0 6px;">
+  </a>
 
-## GitHub Metrics
+  <a href="mailto:hanushashwat733@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+         style="height:36px; margin:0 6px;">
+  </a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hanushashwat&show_icons=true&hide_border=true&theme=transparent)
+  <a href="https://www.instagram.com/hanushashwat/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         style="height:36px; margin:0 6px;">
+  </a>
 
----
-
-## Contact
-
-LinkedIn → https://www.linkedin.com/in/hanushashwat/  
-Email → hanushashwat733@gmail.com  
-X → https://x.com/Hanu_Shashwat
+  <a href="https://x.com/Hanu_Shashwat" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+         style="height:36px; margin:0 6px;">
+  </a>
+  
+</p>
