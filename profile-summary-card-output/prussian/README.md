@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/HanuShashwat/HanuShashwat/main/profile-summary-card-output/prussian/4-productive-time.svg)
+```
+
+    
