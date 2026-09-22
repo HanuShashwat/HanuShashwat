@@ -20,9 +20,8 @@ USER_NAME = os.environ.get('USER_NAME', 'HanuShashwat')
 ACCESS_TOKEN = os.environ.get('ACCESS_TOKEN', '').strip()
 HEADERS = {'authorization': f'token {ACCESS_TOKEN}'} if ACCESS_TOKEN else {}
 
-# Configurable starting timestamp for uptime:
-# IIT Patna / Engineering Uptime anchor: August 1, 2024 (or change to your birthday)
-UPTIME_START = datetime.datetime(2024, 8, 1)
+# Date of Birth: August 19, 2006
+UPTIME_START = datetime.datetime(2006, 8, 19)
 
 QUERY_COUNT = {
     'user_getter': 0,

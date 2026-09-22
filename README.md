@@ -22,7 +22,6 @@
 ### 👨‍💻 About Me
 
 - 🚀 **Founder & CEO** at **[Gaprio Labs](mailto:hanu@gaprio.in)** — Architecting proactive AI agent orchestration layers with human-in-the-loop oversight to turn high-level team collaboration into autonomous execution.
-- 🎓 **B.Sc. in Computer Science & Data Analytics** at **Indian Institute of Technology (IIT), Patna** (Current CPI: **9.35** / 10.0).
 - 🧠 **Generative AI Engineer** focused on LLM agent swarms, production RAG & GraphRAG pipelines, knowledge graphs, and cloud-native microservice architectures.
 - 🛠️ Hands-on across the complete AI lifecycle: from dual-write canonical knowledge architectures and real-time collaboration engines to cloud deployment, low-latency streaming, and monitoring.
 
