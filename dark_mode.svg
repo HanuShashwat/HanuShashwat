@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1140px" height="650px" font-size="13.5px" viewBox="0 0 1140 650">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1060px" height="530px" font-size="15px" viewBox="0 0 1060 530">
 <style>
 @font-face {
   font-family: 'ConsolasFallback';
@@ -12,72 +12,72 @@
 .value { fill: #a5d6ff; }
 .addColor { fill: #3fb950; }
 .delColor { fill: #f85149; }
-.cc { fill: #484f58; }
-.ascii { fill: #58a6ff; font-size: 9.5px; font-family: ConsolasFallback, Consolas, monospace; }
+.cc { fill: #616e7f; }
+.ascii { fill: #58a6ff; font-size: 9.2px; font-family: ConsolasFallback, Consolas, monospace; }
 text, tspan { white-space: pre; }
 </style>
-<rect width="1140" height="650" fill="#161b22" rx="15" stroke="#30363d" stroke-width="1.2"/>
-<text x="25" y="125.0" class="ascii">
-<tspan x="25" y="125.0">                                                 .:..</tspan>
-<tspan x="25" y="137.0">                                              .:+++++::...</tspan>
-<tspan x="25" y="149.0">                          .:+++:..        ...:+++++++++:::.</tspan>
-<tspan x="25" y="161.0">                      .:+++####::........::++######+++++:::</tspan>
-<tspan x="25" y="173.0">                     .+:.......:::::::++++++:+++::::::::::+.</tspan>
-<tspan x="25" y="185.0">                     +:.:::::.       .:::::.        .... .::</tspan>
-<tspan x="25" y="197.0">                ..  :+:::::...       ..:::..     .:::+++::::.</tspan>
-<tspan x="25" y="209.0">                .:: +++::.  :   .    .+##+:.        .  ..::+.   .</tspan>
-<tspan x="25" y="221.0">               . :+:+++++++:::....::+++##+++:......::...::::. ::</tspan>
-<tspan x="25" y="233.0">             ..:::.:++++#++++::++##++++##++++#++::::::+++++::.+: .</tspan>
-<tspan x="25" y="245.0">             ..:: .+++############++++####++++########+++++:: .::..</tspan>
-<tspan x="25" y="257.0">            ...::::+++########++++########++#+:++######+++++:.  :..</tspan>
-<tspan x="25" y="269.0">             ..:++.:++++#+++++::++. ..::::. .+:::++++++++++:..:.:..</tspan>
-<tspan x="25" y="281.0">             ..:++.:+++++++::.:++::.   .    .:++..:::++++:::.:+::..</tspan>
-<tspan x="25" y="293.0">              .... :::++:::   ........::::.......  .:::::::: :+::.</tspan>
-<tspan x="25" y="305.0">                   .::.:::.      ..::+:::::...      .:::::..  ..</tspan>
-<tspan x="25" y="317.0">                    .:..::: .:...+###%##%##:+.  .   .:.....</tspan>
-<tspan x="25" y="329.0">                     ...:::::+++++++#++++++++++++:::::...</tspan>
-<tspan x="25" y="341.0">                       ..::..:+++:..... .....:++:::....</tspan>
-<tspan x="25" y="353.0">                         ....:++++++:::::::+++++:.</tspan>
-<tspan x="25" y="365.0">                             ..::::::++:++++:::.        .</tspan>
-<tspan x="25" y="377.0">                       .:.               ..           .::</tspan>
-<tspan x="25" y="389.0">                        .+:.                        .::::</tspan>
-<tspan x="25" y="401.0">                         +::::.                  .:::::::</tspan>
-<tspan x="25" y="413.0">                         :++:::::...         ...::::++:::</tspan>
-<tspan x="25" y="425.0">                  ..    .::++::::::...........::::+++:::.      .</tspan>
-<tspan x="25" y="437.0">             ..  ..     .::::+:::::::......:::::::::::::</tspan>
-<tspan x="25" y="449.0">           .    ...    ..::::::::::::::::::::::::::::::         .    . ..</tspan>
-<tspan x="25" y="461.0">    .....   . ..  .    .:.:::::::::::::::::::::::::::.    .     .    ...........</tspan>
-<tspan x="25" y="473.0">          .  ..  ..     ::::::::::::::..::::::::...:.  ...     .. .   ..........</tspan>
-<tspan x="25" y="485.0">...  .   .. ..  . ..     ++++++::+++:::::::::::::::.  ...    ...:...............</tspan>
-<tspan x="25" y="497.0">...... ... ..   .....:    :######+++++++++++++###+:.:.:.    .. .. ..............</tspan>
-<tspan x="25" y="509.0">.....  ...::..:..    .:.:..:################+++::..     .  ...... ..............</tspan>
-<tspan x="25" y="521.0">..... ...:::::.          .::::###########++.             ...:..:. ..............</tspan>
+<rect width="1060" height="530" fill="#161b22" rx="15" stroke="#30363d" stroke-width="1.2" />
+<text x="15" y="30.0" class="ascii">
+<tspan x="15" y="30.0">                                                 .:..</tspan>
+<tspan x="15" y="44.5">                                              .:+++++::...</tspan>
+<tspan x="15" y="59.0">                          .:+++:..        ...:+++++++++:::.</tspan>
+<tspan x="15" y="73.5">                      .:+++####::........::++######+++++:::</tspan>
+<tspan x="15" y="88.0">                     .+:.......:::::::++++++:+++::::::::::+.</tspan>
+<tspan x="15" y="102.5">                     +:.:::::.       .:::::.        .... .::</tspan>
+<tspan x="15" y="117.0">                ..  :+:::::...       ..:::..     .:::+++::::.</tspan>
+<tspan x="15" y="131.5">                .:: +++::.  :   .    .+##+:.        .  ..::+.</tspan>
+<tspan x="15" y="146.0">               . :+:+++++++:::....::+++##+++:......::...::::. ::</tspan>
+<tspan x="15" y="160.5">             ..:::.:++++#++++::++##++++##++++#++::::::+++++::.+:</tspan>
+<tspan x="15" y="175.0">             ..:: .+++############++++####++++########+++++:: .:</tspan>
+<tspan x="15" y="189.5">            ...::::+++########++++########++#+:++######+++++:.</tspan>
+<tspan x="15" y="204.0">             ..:++.:++++#+++++::++. ..::::. .+:::++++++++++:..:.</tspan>
+<tspan x="15" y="218.5">             ..:++.:+++++++::.:++::.   .    .:++..:::++++:::.:+:</tspan>
+<tspan x="15" y="233.0">              .... :::++:::   ........::::.......  .:::::::: :+:</tspan>
+<tspan x="15" y="247.5">                   .::.:::.      ..::+:::::...      .:::::..  ..</tspan>
+<tspan x="15" y="262.0">                    .:..::: .:...+###%##%##:+.  .   .:.....</tspan>
+<tspan x="15" y="276.5">                     ...:::::+++++++#++++++++++++:::::...</tspan>
+<tspan x="15" y="291.0">                       ..::..:+++:..... .....:++:::....</tspan>
+<tspan x="15" y="305.5">                         ....:++++++:::::::+++++:.</tspan>
+<tspan x="15" y="320.0">                             ..::::::++:++++:::.        .</tspan>
+<tspan x="15" y="334.5">                       .:.               ..           .::</tspan>
+<tspan x="15" y="349.0">                        .+:.                        .::::</tspan>
+<tspan x="15" y="363.5">                         +::::.                  .:::::::</tspan>
+<tspan x="15" y="378.0">                         :++:::::...         ...::::++:::</tspan>
+<tspan x="15" y="392.5">                  ..    .::++::::::...........::::+++:::.      .</tspan>
+<tspan x="15" y="407.0">             ..  ..     .::::+:::::::......:::::::::::::</tspan>
+<tspan x="15" y="421.5">           .    ...    ..::::::::::::::::::::::::::::::</tspan>
+<tspan x="15" y="436.0">    .....   . ..  .    .:.:::::::::::::::::::::::::::.    .</tspan>
+<tspan x="15" y="450.5">          .  ..  ..     ::::::::::::::..::::::::...:.  ...     .</tspan>
+<tspan x="15" y="465.0">...  .   .. ..  . ..     ++++++::+++:::::::::::::::.  ...    ...</tspan>
+<tspan x="15" y="479.5">...... ... ..   .....:    :######+++++++++++++###+:.:.:.    .. .</tspan>
+<tspan x="15" y="494.0">.....  ...::..:..    .:.:..:################+++::..     .  .....</tspan>
+<tspan x="15" y="508.5">..... ...:::::.          .::::###########++.             ...:..:</tspan>
 </text>
-<text x="535" y="50" fill="#c9d1d9">
-<tspan x="535" y="50">hanu@gaprio.in</tspan> -——————————————————————————————————————————————————--
-<tspan x="535" y="73" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 11, Android, iOS</tspan>
-<tspan x="535" y="96" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">20 years, 1 month, 10 days</tspan>
-<tspan x="535" y="119" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Gaprio Labs Pvt. Ltd.</tspan>
-<tspan x="535" y="142" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Founder &amp; CEO | Generative AI Engineer</tspan>
-<tspan x="535" y="165" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Agentic AI Systems, GraphRAG, LLMs</tspan>
-<tspan x="535" y="188" class="cc">. </tspan>
-<tspan x="535" y="211" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">English, Hindi, Japanese (N4)</tspan>
-<tspan x="535" y="234" class="cc">. </tspan><tspan class="key">AI.Agentic &amp; LLM</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">LangGraph, LangChain, MCP, Ollama, RAG</tspan>
-<tspan x="535" y="257" class="cc">. </tspan><tspan class="key">AI.Graph &amp; Vectors</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">GraphRAG, Neo4j, Weaviate, Qdrant, FAISS</tspan>
-<tspan x="535" y="280" class="cc">. </tspan>
-<tspan x="535" y="303" class="cc">. </tspan><tspan class="key">Projects.Active</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Gaprio Brain, OpenYC Skills</tspan>
-<tspan x="535" y="326" class="cc">. </tspan><tspan class="key">Projects.Shipped</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Twouple AI, Vibe Hear (Capstone)</tspan>
-<tspan x="535" y="349" class="cc">. </tspan>
-<tspan x="535" y="372">- Contact</tspan> -————————————————————————————————————————————————————-—--
-<tspan x="535" y="395" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">hanushashwat733@gmail.com</tspan>
-<tspan x="535" y="418" class="cc">. </tspan><tspan class="key">Email.Work</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hanu@gaprio.in</tspan>
-<tspan x="535" y="441" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HanuShashwat</tspan>
-<tspan x="535" y="464" class="cc">. </tspan><tspan class="key">X.Twitter</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">@Hanu_Shashwat</tspan>
-<tspan x="535" y="487" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">hanushashwat</tspan>
-<tspan x="535" y="510" class="cc">. </tspan>
-<tspan x="535" y="533">- GitHub Stats</tspan> -—————————————————————————————————————————————————--
-<tspan x="535" y="556" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots">. </tspan><tspan class="value" id="repo_data">32</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">35</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> .......... </tspan><tspan class="value" id="star_data">3</tspan>
-<tspan x="535" y="579" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .............. </tspan><tspan class="value" id="commit_data">935</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ...... </tspan><tspan class="value" id="follower_data">3</tspan>
-<tspan x="535" y="602" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> </tspan><tspan class="value" id="loc_data">103,040</tspan> ( <tspan class="addColor" id="loc_add">112,000</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">8,960</tspan><tspan class="delColor">--</tspan> )
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">hanu@gaprio.in</tspan> -——————————————————————————————————————————————————--
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 11, Android, iOS</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">20 years, 1 month, 11 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Gaprio Labs Pvt. Ltd.</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Founder &amp; CEO | Generative AI Engineer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Agentic AI Systems, GraphRAG, LLMs</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">English, Hindi, Japanese (N4)</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">AI.Agentic &amp; LLM</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">LangGraph, LangChain, MCP, Ollama, RAG</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">AI.Graph &amp; Vectors</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">GraphRAG, Neo4j, Weaviate, Qdrant, FAISS</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Projects.Active</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Gaprio Brain, OpenYC Skills</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Projects.Shipped</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Twouple AI, Vibe Hear (Capstone)</tspan>
+<tspan x="390" y="290" class="cc">. </tspan>
+<tspan x="390" y="310">- Contact</tspan> -————————————————————————————————————————————————————-—--
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">hanushashwat733@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email.Work</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">hanu@gaprio.in</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">HanuShashwat</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">X.Twitter</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">@Hanu_Shashwat</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">hanushashwat</tspan>
+<tspan x="390" y="430" class="cc">. </tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————————————--
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots">. </tspan><tspan class="value" id="repo_data">32</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">35</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> .......... </tspan><tspan class="value" id="star_data">3</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .............. </tspan><tspan class="value" id="commit_data">654</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ...... </tspan><tspan class="value" id="follower_data">3</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> </tspan><tspan class="value" id="loc_data">103,040</tspan> ( <tspan class="addColor" id="loc_add">112,000</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">8,960</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
