@@ -2,8 +2,9 @@
 
 <a href="https://github.com/HanuShashwat/HanuShashwat">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Hanu Shashwat's GitHub Profile README" src="light_mode.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HanuShashwat/HanuShashwat/main/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HanuShashwat/HanuShashwat/main/light_mode.svg">
+    <img alt="Hanu Shashwat's GitHub Profile README" src="https://raw.githubusercontent.com/HanuShashwat/HanuShashwat/main/light_mode.svg" width="100%">
   </picture>
 </a>
 

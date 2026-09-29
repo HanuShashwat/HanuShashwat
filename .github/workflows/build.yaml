@@ -33,6 +33,7 @@ jobs:
       - name: Update README SVGs
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
         run: python today.py
 
@@ -40,5 +41,11 @@ jobs:
         run: |-
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add dark_mode.svg light_mode.svg cache/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update GitHub profile statistics [skip ci]" && git push)
+          git add dark_mode.svg light_mode.svg cache/ README.md
+          git diff --staged --quiet || (git commit -m "Auto-update GitHub profile statistics [skip ci]" && git push origin main)
+
+      - name: Invalidate Camo CDN cache
+        run: |-
+          curl -s -X PURGE "https://camo.githubusercontent.com/*" || true
+          curl -s -I "https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/main/dark_mode.svg?v=$(date +%s)" > /dev/null || true
+          curl -s -I "https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/main/light_mode.svg?v=$(date +%s)" > /dev/null || true
