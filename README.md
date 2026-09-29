@@ -48,6 +48,13 @@
 - **Cloud & DevOps**: `AWS (Bedrock, Lambda, S3, EC2)` • `Cloudflare` • `Vercel` • `GitHub Actions`
 - **Frontend & Mobile**: `Next.js` • `Flutter` • `Streamlit`
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HanuShashwat/HanuShashwat/main/profile-summary-card-output/2077/0-profile-details.svg" width="48%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/HanuShashwat/HanuShashwat/main/profile-summary-card-output/2077/1-repos-per-language.svg" width="48%" alt="Repos Per Language" />
+</div>
+
 ---
 
 <div align="center">
