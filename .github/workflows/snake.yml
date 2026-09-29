@@ -18,6 +18,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          snake_color: '#9745F5'
+          dot_color: '#F7216B'
+          bg_color: '#00000000'
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
