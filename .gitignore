@@ -1,15 +1,31 @@
-# Python cache
+# Python cache & virtual environments
 __pycache__/
 *.py[cod]
 *$py.class
 *.env
 .venv/
 env/
+venv/
 
-# Cloned reference repo
+# Cloned reference & backup repos
 Andrew6rant/
+HanuShashwat-old-main/
 
-# Local previews
-preview_final.html
+# Working scratch files & ASCII drafts
+ascii-art.txt
+ascii_art_updated.txt
+setup_instructions.md
 generate_svgs.py
-HanuShashwat-old-main
+scratch*.py
+
+# Local verification & preview files
+*.html
+preview_final.html
+verify_*.html
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
