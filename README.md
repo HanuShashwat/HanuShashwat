@@ -14,7 +14,7 @@
 [![X (Twitter)](https://img.shields.io/badge/X-@Hanu__Shashwat-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Hanu_Shashwat)
 [![Discord](https://img.shields.io/badge/Discord-hanushashwat-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/hanushashwat)
 [![Email Personal](https://img.shields.io/badge/Email-Personal-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hanushashwat733@gmail.com)
-[![Email Work](https://img.shields.io/badge/Email-Work-1877F2?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hanu@gaprio.in)
+[![Email Work](https://img.shields.io/badge/Email-Work-1877F2?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hanu@gaprio.si)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- **Founder & CEO** at **[Gaprio Labs](https://gaprio.in)**: Architecting proactive AI agent orchestration layers with human-in-the-loop oversight to turn high-level team collaboration into autonomous execution.
+- **Founder & CEO** at **[Gaprio Labs](https://gaprio.si)**: Architecting proactive AI agent orchestration layers with human-in-the-loop oversight to turn high-level team collaboration into autonomous execution.
 - **Generative AI Engineer** focused on LLM agent swarms, production RAG & GraphRAG pipelines, knowledge graphs, and cloud-native microservice architectures.
 - Hands-on across the complete AI lifecycle: from dual-write canonical knowledge architectures and real-time collaboration engines to cloud deployment, low-latency streaming, and monitoring.
 
