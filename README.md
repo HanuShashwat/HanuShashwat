@@ -11,9 +11,9 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HanuShashwat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/HanuShashwat)
+[![Email Work](https://img.shields.io/badge/Email-Work-EA4335?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hanu@gaprio.si)
 [![X (Twitter)](https://img.shields.io/badge/X-@Hanu__Shashwat-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Hanu_Shashwat)
 [![Discord](https://img.shields.io/badge/Discord-hanushashwat-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/hanushashwat)
-[![Email Work](https://img.shields.io/badge/Email-Work-EA4335?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hanu@gaprio.si)
 
 </div>
 
