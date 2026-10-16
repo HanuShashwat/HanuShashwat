@@ -12,9 +12,9 @@
 
 [![Email Work](https://img.shields.io/badge/Email-hanu@gaprio.si-EA4335?style=flat-square&logo=mail.ru&logoColor=white)](mailto:hanu@gaprio.si)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HanuShashwat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/HanuShashwat)
-[![Instagram](https://img.shields.io/badge/Instagram-@hanushashwat-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hanushashwat/)
 [![X (Twitter)](https://img.shields.io/badge/X-@Hanu__Shashwat-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Hanu_Shashwat)
 [![Discord](https://img.shields.io/badge/Discord-hanushashwat-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/hanushashwat)
+[![Instagram](https://img.shields.io/badge/Instagram-@hanushashwat-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hanushashwat/)
 
 </div>
 
